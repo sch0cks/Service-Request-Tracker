@@ -1,9 +1,4 @@
-# Ignore dependencies or local stuff
-vendor/
-node_modules/
-
-# Ignore environment files (if any)
 .env
-
-# Ignore XAMPP / local config dumps
+node_modules/
+vendor/
 *.log
